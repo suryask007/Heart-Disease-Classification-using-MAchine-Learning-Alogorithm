@@ -1,6 +1,6 @@
-# ❤️ Heart Disease Prediction Dataset
+# ❤️ Heart Disease Classification
 
-Welcome to the **Heart Disease Prediction Dataset** repository! This dataset contains medical attributes that can help in predicting the presence of heart disease. It is useful for researchers, data scientists, and healthcare professionals working on cardiovascular disease prediction models.
+Welcome to the **Heart Disease Classification Dataset** repository! This dataset contains medical attributes that can help in predicting the presence of heart disease. It is useful for researchers, data scientists, and healthcare professionals working on cardiovascular disease prediction models.
 
 ---
 
